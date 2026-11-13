@@ -277,7 +277,7 @@ function FavoritesScreen() {
 //router
 export default function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <div className="min-vh-100 bg-light d-flex flex-column">
         <Navbar />
         <div className="flex-grow-1">
