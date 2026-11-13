@@ -31,5 +31,5 @@ FlavorFind is an interactive React web application designed for exploring culina
 
 ## Deployment
 Deployed on GitHub Pages:
-- **Public GitHub Repo:** https://github.com/ahsanahsan/flavor-find
-- **Live GitHub Pages App:** https://ahsanahsan.github.io/flavor-find
+- **Public GitHub Repo:** https://github.com/ahsansyed1414-boop/flavor-find
+- **Live GitHub Pages App:** https://ahsansyed1414-boop.github.io/flavor-find/
